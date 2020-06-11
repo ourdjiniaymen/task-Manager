@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginLayout">20dp</dimen>
+    <dimen name="imageSize">100dp</dimen>
+    <dimen name="textSize">20sp</dimen>
+    <dimen name="layoutWidth">400dp</dimen>
+</resources>

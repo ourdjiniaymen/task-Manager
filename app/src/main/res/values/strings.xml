@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TaskManager</string>
+    <string name="add_tache">introduire le nom du tache</string>
+    <string name="top_add_tache">ajouter une tache</string>
+    <string name="retour">retour</string>
+    <string name="today">Aujourdhui</string>
+    <string name="week">Semaine en cours</string>
+    <string name="all">Toutes</string>
+    <string-array name="combo_value">
+        <item>Aujourdhui</item>
+        <item>Semaine en cours</item>
+        <item>Toutes</item>
+    </string-array>
+</resources>
